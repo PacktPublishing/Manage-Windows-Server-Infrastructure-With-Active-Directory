@@ -1,0 +1,158 @@
+﻿Module 2:
+
+​Which of the following are new feature additions to Windows Server 2012?​
+a. NIC Teaming
+b. ​Active Directory
+c. ​Automatic Updates
+d. ​Storage Service
+
+Correct: a
+That is correct. Dynamic NIC Teaming allows more granular balancing based on flowlets, enabling best performance and utilization of available resources.
+
+Incorrect:
+That is not correct. 
+
+
+
+
+Windows Server 2012 was codenamed as Windows Server 12?
+a. TRUE
+b. FALSE
+
+
+Correct: b
+
+
+
+
+We have to use physical media to install Windows Server.
+a. TRUE
+b. FALSE
+
+
+Correct: b
+No - we can use digital media for installation - like we did in the course demonstration.
+
+
+
+​Which of the following help in identifying a system on a network for the purpose of communication?​
+a. IP Address
+b. Router Address
+c. Switch address
+d. Your home address
+
+
+Correct: a
+
+--------------------------
+
+Module 3:
+
+​A forest is a collection of ___________________________.​
+a. Tall trees
+b. Windows servers
+c. Sites
+d. Active Directory Domains​
+
+
+Correct: d
+
+
+
+
+Which of the following are not a responsibility of ​ADDS?​
+a. Authentication
+b. ​Access Control
+c. Audit Trail​
+d. ​Assigning IP Addresses
+
+
+Correct: d
+
+
+​The Active Directory (AD) data store is an identity store.​
+a. TRUE
+b. FALSE
+
+
+Correct: a
+
+
+
+
+Global catalog acts like a catalog in enabling querying AD and locating objects in it.
+a. TRUE
+b. FALSE
+
+
+Correct: a
+
+
+
+--------------------------
+
+Module 4:
+
+
+How many directory partitions does a domain controller have?
+a. 2
+b. 3
+c. 4
+d. 5
+
+Correct: b
+
+
+
+
+
+Which of the following logon can be used only after user, service or computer authentication?
+a. Remote Logon
+b. Interactive Logon
+c. Network Logon
+d. None Of The Above
+
+
+Correct: c
+
+
+
+Workgroups are part of domains.
+a. TRUE
+b. FALSE
+
+
+Correct: b
+
+
+
+--------------------------
+
+Module 5:
+
+
+In a workgroup, all computers need to be a part of a LAN.
+a. TRUE
+b. FALSE
+
+
+Correct: a
+
+
+
+The primary zone is the only zone that can be edited
+
+a. TRUE
+b. FALSE
+
+
+Correct: a
+That is correct. The primary zone is the only zone that can be edited since it is the original data source for all domains in the zone. Typically, a backup of the primary zone is made to a secondary zone.
+
+
+
+
+
+
+
+
